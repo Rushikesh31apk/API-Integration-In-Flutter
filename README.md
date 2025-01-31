@@ -42,10 +42,12 @@ This repository demonstrates how to integrate **RESTful APIs** in a **Flutter** 
 ---
 
 ## **How to Use**
+
 1. **Clone the Repository:**
-   ```bash
+
    git clone https://github.com/your-username/API-Integration-In-Flutter.git
    cd API-Integration-In-Flutter
+
    ```
 
 2. **Install Dependencies:**
