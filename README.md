@@ -43,23 +43,22 @@ This repository demonstrates how to integrate **RESTful APIs** in a **Flutter** 
 ## **How to Use**
 
 1. **Clone the Repository:**
-
-   git clone https://github.com/your-username/API-Integration-In-Flutter.git
+   ```bash
+   git clonehttps://github.com/your-username/API-Integration-In-Flutter.git
    cd API-Integration-In-Flutter
-
    ```
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    ```bash
    flutter pub get
    ```
 
-3. **Run the App:**
+4. **Run the App:**
    ```bash
    flutter run
    ```
 
-4. **Explore the Code:**
+5. **Explore the Code:**
    - Check the `api_service.dart` for API integration logic.
    - Explore `post_provider.dart` for state management.
    - Modify `home_screen.dart` to customize the UI.
