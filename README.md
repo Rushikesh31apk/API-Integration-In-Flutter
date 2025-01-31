@@ -37,9 +37,8 @@ This repository demonstrates how to integrate **RESTful APIs** in a **Flutter** 
 - **Provider:** For state management.
 - **JSON Serialization:** For converting JSON data to Dart objects and vice versa.
 
-```
-
 ---
+
 
 ## **How to Use**
 
